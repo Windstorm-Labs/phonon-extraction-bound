@@ -76,7 +76,9 @@ The published numerics were executed by code-execution-enabled large-language-mo
 
 | # | Paper | DOI |
 |---|-------|-----|
-| 10 | [Phonon Extraction Bound (BEC Analog Gravity)](https://github.com/Windstorm-Institute/phonon-extraction-bound) *(this paper)* | [10.5281/zenodo.20014391](https://doi.org/10.5281/zenodo.20014391) |
+| 10 | [Phonon Extraction Bound (BEC Analog Gravity)](https://github.com/Windstorm-Institute/phonon-extraction-bound) *(this paper — 1st in track)* | [10.5281/zenodo.20014391](https://doi.org/10.5281/zenodo.20014391) |
+| 11 | [Gravitational Entropy Escrow](https://github.com/Windstorm-Institute/gravitational-entropy-escrow) *(2nd in track)* | [10.5281/zenodo.20032023](https://doi.org/10.5281/zenodo.20032023) |
+| 12 | [C8 Clarification Note](https://github.com/Windstorm-Institute/c8-clarification-note) *(3rd in track; companion to Paper 11)* | [10.5281/zenodo.20041992](https://doi.org/10.5281/zenodo.20041992) |
 
 **Website:** [windstorminstitute.org](https://windstorminstitute.org)
 
