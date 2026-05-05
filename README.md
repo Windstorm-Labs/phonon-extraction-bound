@@ -48,6 +48,14 @@ The published numerics were executed by code-execution-enabled large-language-mo
 
 ---
 
+## Discuss this code
+
+- **Bug, reproduction failure, or unexpected output?** → [Open an Issue](../../issues)
+- **Q&A — version compatibility, hardware, generalization to other inputs?** → [Start a Discussion](../../discussions)
+- **Discuss the paper itself** → [Comments on the website article](https://windstorminstitute.org/articles/phonon-extraction-bound.html#comments) or [Issues on the Institute repo](https://github.com/Windstorm-Institute/phonon-extraction-bound/issues)
+
+---
+
 ## The Windstorm Institute
 
 ### Track 1 — The Throughput Basin · 9 papers (Papers 1–9 globally; 1st through 9th in this track; arc complete)
